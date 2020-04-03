@@ -10,4 +10,5 @@ My Customisations:
 - High Quality Graphics, but disabled gibs and distracting stuff
 - No pyro flames
 - min viewmodels
+- custom sounds
 - various minor things
