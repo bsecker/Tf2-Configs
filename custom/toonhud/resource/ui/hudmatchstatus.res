@@ -282,7 +282,7 @@
 		"wide"				"110"
 		"tall"				"150"
 		"visible"			"0"
-		"enabled"			"1"
+		"enabled"			"0"
 		"delta_item_x"			"5"
 		"delta_item_start_y"	"24"
 		"delta_item_end_y"		"70"

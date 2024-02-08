@@ -33,7 +33,7 @@
 	"MutePlayersButton"
 	{
 		"label"			""
-		"command"		"OpenPlayerListDialog"
+		"command"		"OpenMutePlayerDialog"
 		"OnlyInGame"	"1"
 		"subimage" "glyph_muted"
 		"tooltip" "#MMenu_MutePlayers"
@@ -95,9 +95,9 @@
 	"ToonHUDButton"
 	{
 		"label"		""
-		"command"	"engine play vo/toughbreak/eng_quest_complete_hard_03.mp3"
+		"command"	"engine play vo/burp05.mp3"
 		"subimage"	"replay/thumbnails/glyphs/glyph_toonhud"
-		"tooltip"	"ToonHUD 11.1 by Griever"
+		"tooltip"	"ToonHUD 11.4 by Griever"
 	}
 
 }

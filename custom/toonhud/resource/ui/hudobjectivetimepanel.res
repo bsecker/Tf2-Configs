@@ -111,6 +111,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}			
@@ -132,6 +133,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}
@@ -159,6 +161,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}			
@@ -180,6 +183,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}
@@ -207,6 +211,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}			
@@ -228,6 +233,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}	
@@ -255,6 +261,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}	
@@ -276,6 +283,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}
@@ -304,6 +312,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}			
@@ -325,6 +334,7 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
+			"xpos"					"cs-0.5"
 			"wide"					"76"
 		}
 	}

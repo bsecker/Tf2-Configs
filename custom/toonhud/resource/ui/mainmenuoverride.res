@@ -232,7 +232,7 @@
 		}
 		if_christmas
 		{
-			"image"		"../console/background_xmas2011_widescreen"
+			"image"		"../console/background_xmas2020_widescreen"
 		}
 	}
 					
@@ -1002,39 +1002,6 @@
 				"mouseinputenabled"	"0"
 				"keyboardinputenabled" "0"
 			}
-		}
-	}
-
-	"StreamListPanel"
-	{
-		"ControlName"	"CTFStreamListPanel"
-		"fieldName"		"StreamListPanel"
-		"xpos"			"r350"
-		"ypos"			"60"
-		"zpos"			"1"
-		"wide"			"300"
-		"tall"			"305"
-		"visible"		"0"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"0"
-		"border"		"SharpWhiteContainer"
-		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
-		"navLeft"		"WatchStreamButton"	// when a sub element can't nav left it will pass through this
-		
-		"Header"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"Header"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"300"
-			"tall"			"24"
-			"visible"		"1"
-			"enabled"		"1"
-			"mouseinputenabled"	"0"
-			"paintborder"	"1"
-			"border"		"SharpPurpleContainer"
 		}
 	}
 

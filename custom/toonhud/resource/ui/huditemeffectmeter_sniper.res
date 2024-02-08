@@ -1,4 +1,4 @@
-// Sniper: The Hitman's Heatmaker
+// Sniper: The Bazaar Bargain
 
 "Resource/UI/HudItemEffectMeter_Sniper.res"
 {

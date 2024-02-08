@@ -648,7 +648,7 @@ Scheme
 				"1"
 				{
 					"color" "G_ItemMeterBorder"
-					"offset" "0 0"
+					"offset" "1 1"
 				}
 			}
 
@@ -657,7 +657,7 @@ Scheme
 				"1"
 				{
 					"color" "G_ItemMeterBorder"
-					"offset" "0 0"
+					"offset" "1 1"
 				}
 			}
 
@@ -676,6 +676,19 @@ Scheme
 				{
 					"color" "G_ItemMeterBorder"
 					"offset" "0 0"
+				}
+			}
+		}
+		
+		G_MeterBorderRight
+		{
+			"inset" "0 0 0 0"
+			Right
+			{
+				"1"
+				{
+					"color" "G_ItemMeterBorder"
+					"offset" "1 1"
 				}
 			}
 		}
